@@ -11,10 +11,6 @@ TRAVAUX PRATIQUE | EXERCICES : Module 1 : Introduction au JavaScript
 ### Technologies
 - JavaScript
 
-### Détails | Commentaires
-- These exercises has been freely made from scratch following global instructions.  
-
-
 ### Statut
 Completed
 
