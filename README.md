@@ -1,34 +1,23 @@
-# My Music
+# Les fondamentaux du JavaScript
 
 # More about this project
 
 ### Related course
-ENI | LE DÉVELOPPEMENT WEB COTE CLIENT 
-TRAVAUX PRATIQUE : Module 7 : Un framework CSS: Bootstrap || Module 08 : Le langage JavaScript
+ENI | LE DÉVELOPPEMENT FRONTEND AVEC JAVASCRIPT
+TRAVAUX PRATIQUE : Module 1 : Introduction au JavaScript
 
-### Description of the project by ENI
-[Module 7](https://github.com/Dyrits/MY-MUSIC/blob/master/Module%2007%20-%20Enonc%C3%A9%20TP%20-%20Application%20My%20Music.pdf)  
-[Module 8](https://github.com/Dyrits/MY-MUSIC/blob/master/Module%2008%20-%20Enonc%C3%A9%20TP%2002%20-%20Fonctionnalit%C3%A9s%20JavaScript%20sur%20My%20Music.pdf)
+### [Description of the project by ENI](https://github.com/Dyrits/LES-FONDAMENTAUX-DU-JAVASCRIPT/blob/master/Module%2001%20-%20%C3%89nonc%C3%A9%20TP%2001%20-%20Les%20fondamentaux%20du%20Javascript.pdf)
 
 ### Technologies | Libraries | Frameworks | Tools  
-- HTML
-- CSS
-- Bootstrap
+- JavaScript
 
 ### Details | Comments
-- This project has been freely made from scratch following global instructions.  
+- These exercises has been freely made from scratch following global instructions.  
 
-The version uploaded online doesn't include .wav files.
-
-### CodePen
-You can find this project on CodePen.
-URL: https://codepen.io/Dyrits/full/NWxRgjj
 
 ### Status
 Completed
 
 #### Last update
-26/06/2020
-
-#### Last update (README.md)
-26/06/2020
+21/09/2020  
+(README | 21/09/2020)
